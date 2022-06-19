@@ -1,0 +1,865 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:1973px;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:#ffffff;
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Rectangle-17{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:-13px;
+  width:1440px;
+  min-width:1440px;
+  height:84px;
+  margin-top:-66px;
+  margin-bottom:1955px;
+  min-height:84px;
+  background-color: #024884;
+}
+.Rectangle-17-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Rectangle-15{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:1973px;
+  margin-top:-1973px;
+  margin-bottom:0px;
+  min-height:1973px;
+  content:url(assets/images/Rectangle_15.png);
+}
+.Rectangle-15-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Ellipse-8{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:594px;
+  width:231px;
+  min-width:231px;
+  height:222px;
+  margin-top:-1795px;
+  margin-bottom:1573px;
+  min-height:222px;
+  content:url(assets/images/Ellipse_8.png);
+}
+.Ellipse-8-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.Rectangle-16{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:218px;
+  width:985px;
+  min-width:985px;
+  height:1680px;
+  margin-top:-1680px;
+  margin-bottom:0px;
+  min-height:1680px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:90px 90px 0px 0px;
+}
+.Rectangle-16-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Frame-1{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:488px;
+  width:68px;
+  min-width:68px;
+  height:91px;
+  margin-top:-1632px;
+  margin-bottom:1541px;
+  min-height:91px;
+  overflow:hidden;
+}
+.Frame-1-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.TRANSAKSI{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:533px;
+  width:356px;
+  min-width:356px;
+  height:57px;
+  margin-top:-1559px;
+  margin-bottom:1502px;
+  min-height:57px;
+  content:url(assets/images/TRANSAKSI_1.png);
+}
+.TRANSAKSI-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Rectangle-20-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:597px;
+  width:220px;
+  min-width:220px;
+  height:13px;
+  margin-top:-1486px;
+  margin-bottom:1473px;
+  min-height:13px;
+  background-color:rgba(2, 72, 132, 1);
+}
+.Rectangle-20-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.q1-2{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:591px;
+  width:231px;
+  min-width:231px;
+  height:77px;
+  margin-top:-1456px;
+  margin-bottom:1379px;
+  min-height:77px;
+  content:url(assets/images/_1_2.png);
+}
+.q1-2-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Rectangle-24{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:218px;
+  width:985px;
+  min-width:985px;
+  height:1067px;
+  margin-top:-1252px;
+  margin-bottom:185px;
+  min-height:1067px;
+  background-color:rgba(196, 196, 196, 1);
+}
+.Rectangle-24-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Rectangle-25{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:218px;
+  width:985px;
+  min-width:985px;
+  height:412px;
+  margin-top:-1242px;
+  margin-bottom:830px;
+  min-height:412px;
+  content:url(assets/images/Rectangle_25.png);
+}
+.Rectangle-25-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Rectangle-27{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:230px;
+  width:11px;
+  min-width:11px;
+  height:50px;
+  margin-top:-1220px;
+  margin-bottom:1170px;
+  min-height:50px;
+  background-color:rgba(2, 72, 132, 1);
+}
+.Rectangle-27-outer{
+  pointer-events:none;
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Transaksi{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:253px;
+  width:214px;
+  min-width:214px;
+  height:40px;
+  margin-top:-1215px;
+  margin-bottom:1175px;
+  min-height:40px;
+  content:url(assets/images/Transaksi.png);
+}
+.Transaksi-outer{
+  pointer-events:none;
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.q380238103-1-2{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:934px;
+  width:231px;
+  min-width:231px;
+  height:30px;
+  margin-top:-1137px;
+  margin-bottom:1107px;
+  min-height:30px;
+  content:url(assets/images/_380238103_1_2.png);
+}
+.q380238103-1-2-outer{
+  pointer-events:none;
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.ID-Transaksi{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:727px;
+  width:190px;
+  min-width:190px;
+  height:30px;
+  margin-top:-1137px;
+  margin-bottom:1107px;
+  min-height:30px;
+  content:url(assets/images/ID_Transaksi.png);
+}
+.ID-Transaksi-outer{
+  pointer-events:none;
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.q15398238{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:500px;
+  width:157px;
+  min-width:157px;
+  height:30px;
+  margin-top:-1137px;
+  margin-bottom:1107px;
+  min-height:30px;
+  content:url(assets/images/_15398238.png);
+}
+.q15398238-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.ID-Pelanggan{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:262px;
+  width:202px;
+  min-width:202px;
+  height:30px;
+  margin-top:-1137px;
+  margin-bottom:1107px;
+  min-height:30px;
+  content:url(assets/images/ID_Pelanggan.png);
+}
+.ID-Pelanggan-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.ID-Produk{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:262px;
+  width:147px;
+  min-width:147px;
+  height:30px;
+  margin-top:-1050px;
+  margin-bottom:1020px;
+  min-height:30px;
+  content:url(assets/images/ID_Produk.png);
+}
+.ID-Produk-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Token-B12{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:500px;
+  width:157px;
+  min-width:157px;
+  height:35px;
+  margin-top:-1045px;
+  margin-bottom:1010px;
+  min-height:35px;
+  content:url(assets/images/Token_B12.png);
+}
+.Token-B12-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.q22992-G{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:500px;
+  width:133px;
+  min-width:133px;
+  height:30px;
+  margin-top:-963px;
+  margin-bottom:933px;
+  min-height:30px;
+  content:url(assets/images/_22992_G.png);
+}
+.q22992-G-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.ID-Admin{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:260px;
+  width:143px;
+  min-width:143px;
+  height:30px;
+  margin-top:-963px;
+  margin-bottom:933px;
+  min-height:30px;
+  content:url(assets/images/ID_Admin.png);
+}
+.ID-Admin-outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Rectangle-26{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:218px;
+  width:985px;
+  min-width:985px;
+  height:556px;
+  margin-top:-811px;
+  margin-bottom:255px;
+  min-height:556px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-26-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Rectangle-20{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:241px;
+  width:11px;
+  min-width:11px;
+  height:50px;
+  margin-top:-800px;
+  margin-bottom:750px;
+  min-height:50px;
+  background-color:rgba(2, 72, 132, 1);
+}
+.Rectangle-20-outer{
+  pointer-events:none;
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.Detail-Pembayaran{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:263px;
+  width:414px;
+  min-width:414px;
+  height:50px;
+  margin-top:-800px;
+  margin-bottom:750px;
+  min-height:50px;
+  content:url(assets/images/Detail_Pembayaran.png);
+}
+.Detail-Pembayaran-outer{
+  pointer-events:none;
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Group-12{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:756px;
+  width:357px;
+  min-width:357px;
+  height:37px;
+  margin-top:-787px;
+  margin-bottom:750px;
+  min-height:37px;
+}
+.Group-12-outer{
+  pointer-events:none;
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.ID-Pembayaran---2421{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:0px;
+  width:357px;
+  min-width:357px;
+  height:37px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:37px;
+  content:url(assets/images/ID_Pembayaran___2421.png);
+}
+.ID-Pembayaran---2421-outer{
+  pointer-events:none;
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.No-Token---212233231{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:755px;
+  width:357px;
+  min-width:357px;
+  height:35px;
+  margin-top:-737px;
+  margin-bottom:702px;
+  min-height:35px;
+  content:url(assets/images/No_Token___2122332312.png);
+}
+.No-Token---212233231-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.q12-April-2022{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:266px;
+  width:196px;
+  min-width:196px;
+  height:38px;
+  margin-top:-731px;
+  margin-bottom:693px;
+  min-height:38px;
+  content:url(assets/images/_12_April_2022.png);
+}
+.q12-April-2022-outer{
+  pointer-events:none;
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.q1212{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:626px;
+  width:76px;
+  min-width:76px;
+  height:30px;
+  margin-top:-650px;
+  margin-bottom:620px;
+  min-height:30px;
+  content:url(assets/images/_1212.png);
+}
+.q1212-outer{
+  pointer-events:none;
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.ID-Jenis-Pembayaran{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:267px;
+  width:315px;
+  min-width:315px;
+  height:35px;
+  margin-top:-650px;
+  margin-bottom:615px;
+  min-height:35px;
+  content:url(assets/images/ID_Jenis_Pembayaran.png);
+}
+.ID-Jenis-Pembayaran-outer{
+  pointer-events:none;
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.q1-000-000-1{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:981px;
+  width:157px;
+  min-width:157px;
+  height:30px;
+  margin-top:-568px;
+  margin-bottom:538px;
+  min-height:30px;
+  content:url(assets/images/_1_000_000_1.png);
+}
+.q1-000-000-1-outer{
+  pointer-events:none;
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.Token{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:750px;
+  width:97px;
+  min-width:97px;
+  height:30px;
+  margin-top:-568px;
+  margin-bottom:538px;
+  min-height:30px;
+  content:url(assets/images/Token.png);
+}
+.Token-outer{
+  pointer-events:none;
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.q1-000-000{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:983px;
+  width:155px;
+  min-width:155px;
+  height:30px;
+  margin-top:-522px;
+  margin-bottom:492px;
+  min-height:30px;
+  content:url(assets/images/_1_000_000.png);
+}
+.q1-000-000-outer{
+  pointer-events:none;
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.Biaya-Admin{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:754px;
+  width:186px;
+  min-width:186px;
+  height:30px;
+  margin-top:-522px;
+  margin-bottom:492px;
+  min-height:30px;
+  content:url(assets/images/Biaya_Admin.png);
+}
+.Biaya-Admin-outer{
+  pointer-events:none;
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.Rectangle-28{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:741px;
+  width:414px;
+  min-width:414px;
+  height:6px;
+  margin-top:-466px;
+  margin-bottom:460px;
+  min-height:6px;
+  background-color:rgba(196, 196, 196, 1);
+}
+.Rectangle-28-outer{
+  pointer-events:none;
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.q2-000-000{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:987px;
+  width:151px;
+  min-width:151px;
+  height:30px;
+  margin-top:-452px;
+  margin-bottom:422px;
+  min-height:30px;
+  content:url(assets/images/_2_000_000.png);
+}
+.q2-000-000-outer{
+  pointer-events:none;
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.Harga{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:757px;
+  width:90px;
+  min-width:90px;
+  height:30px;
+  margin-top:-452px;
+  margin-bottom:422px;
+  min-height:30px;
+  content:url(assets/images/Harga.png);
+}
+.Harga-outer{
+  pointer-events:none;
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.image-5{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:274px;
+  width:294px;
+  min-width:294px;
+  height:66px;
+  margin-top:-362px;
+  margin-bottom:296px;
+  min-height:66px;
+  content:url(assets/images/image_5.png);
+}
+.image-5-outer{
+  pointer-events:none;
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.q50-{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:1029px;
+  width:64px;
+  min-width:64px;
+  height:37px;
+  margin-top:-315px;
+  margin-bottom:278px;
+  min-height:37px;
+  content:url(assets/images/_50_.png);
+}
+.q50--outer{
+  pointer-events:none;
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.Diskon-Go-pay{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:750px;
+  width:213px;
+  min-width:213px;
+  height:37px;
+  margin-top:-315px;
+  margin-bottom:278px;
+  min-height:37px;
+  content:url(assets/images/Diskon_Go_pay.png);
+}
+.Diskon-Go-pay-outer{
+  pointer-events:none;
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.Group-167{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:218px;
+  width:985px;
+  min-width:985px;
+  height:126px;
+  margin-top:-225px;
+  margin-bottom:99px;
+  min-height:126px;
+}
+.Group-167-outer{
+  pointer-events:none;
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.price-bg{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:0px;
+  width:985px;
+  min-width:985px;
+  height:126px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:126px;
+  background-color:rgba(2, 72, 132, 1);
+  border-radius:30px;
+}
+.price-bg-outer{
+  pointer-events:none;
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.Terima-kasih{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:354px;
+  width:295px;
+  min-width:295px;
+  height:50px;
+  margin-top:-88px;
+  margin-bottom:38px;
+  min-height:50px;
+  content:url(assets/images/Terima_kasih.png);
+}
+.Terima-kasih-outer{
+  pointer-events:none;
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.checkout-btn{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:820px;
+  width:120px;
+  min-width:120px;
+  height:57px;
+  margin-top:-213px;
+  margin-bottom:156px;
+  min-height:57px;
+}
+.checkout-btn-outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Kembali-Ke-beranda{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:627px;
+  width:167px;
+  min-width:167px;
+  height:69px;
+  margin-top:-91px;
+  margin-bottom:22px;
+  min-height:69px;
+  content:url(assets/images/Kembali_Ke_beranda.png);
+}
+.Kembali-Ke-beranda-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}

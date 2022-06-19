@@ -1,0 +1,716 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:1370px;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:#ffffff;
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Rectangle-17{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:84px;
+  margin-top:0px;
+  margin-bottom:1286px;
+  min-height:84px;
+  background-color:rgba(196, 196, 196, 0.1);
+}
+.Rectangle-17-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Rectangle-15{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:1370px;
+  margin-top:-1370px;
+  margin-bottom:0px;
+  min-height:1370px;
+  content:url(assets/images/Rectangle_15.png);
+}
+.Rectangle-15-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Persusahaan{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:683px;
+  width:214px;
+  min-width:214px;
+  height:40px;
+  margin-top:-1344px;
+  margin-bottom:1304px;
+  min-height:40px;
+  content:url(assets/images/Persusahaan.png);
+}
+.Persusahaan-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Admin{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:525px;
+  width:127px;
+  min-width:127px;
+  height:40px;
+  margin-top:-1344px;
+  margin-bottom:1304px;
+  min-height:40px;
+  content:url(assets/images/Admin.png);
+}
+.Admin-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Beranda{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:362px;
+  width:145px;
+  min-width:145px;
+  height:40px;
+  margin-top:-1344px;
+  margin-bottom:1304px;
+  min-height:40px;
+  content:url(assets/images/Beranda.png);
+}
+.Beranda-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Produk{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:923px;
+  width:131px;
+  min-width:131px;
+  height:39px;
+  margin-top:-1343px;
+  margin-bottom:1304px;
+  min-height:39px;
+  content:url(assets/images/Produk.png);
+}
+.Produk-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Group-3{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:598px;
+  width:234px;
+  min-width:234px;
+  height:224px;
+  margin-top:-1164px;
+  margin-bottom:940px;
+  min-height:224px;
+}
+.Group-3-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Ellipse-10{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:0px;
+  width:234px;
+  min-width:234px;
+  height:224px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:224px;
+  content:url(assets/images/Ellipse_10.png);
+}
+.Ellipse-10-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.user{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:44px;
+  width:147.68px;
+  min-width:147.68px;
+  height:136.3px;
+  margin-top:-181px;
+  margin-bottom:44.69999999999999px;
+  min-height:136.3px;
+  overflow:hidden;
+}
+.user-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Vector{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:32.50270855904658%;
+  width:36.04414951245936%;
+  height:36.26559060895084%;
+  margin-top:10.83423618634886%;
+  content:url(assets/images/Vector.png);
+}
+.Vector-outer{
+  pointer-events:none;
+  z-index:12;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Vector-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:15.57421451787649%;
+  width:69.37296858071505%;
+  height:27.938371239911955%;
+  margin-top:57.55687973997833%;
+  content:url(assets/images/Vector_1.png);
+}
+.Vector-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-16{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:246px;
+  width:948px;
+  min-width:948px;
+  height:1038px;
+  margin-top:-1038px;
+  margin-bottom:0px;
+  min-height:1038px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:90px 90px 0px 0px;
+}
+.Rectangle-16-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.PROFILE{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:609px;
+  width:222px;
+  min-width:222px;
+  height:50px;
+  margin-top:-905px;
+  margin-bottom:855px;
+  min-height:50px;
+  content:url(assets/images/PROFILE.png);
+}
+.PROFILE-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Rectangle-20{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:559px;
+  width:322px;
+  min-width:322px;
+  height:15px;
+  margin-top:-836px;
+  margin-bottom:821px;
+  min-height:15px;
+  background-color:rgba(2, 72, 132, 1);
+}
+.Rectangle-20-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.ID-Customer--2124101{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:512px;
+  width:419px;
+  min-width:419px;
+  height:36px;
+  margin-top:-802px;
+  margin-bottom:766px;
+  min-height:36px;
+  content:url(assets/images/ID_Customer__212410102080.png);
+}
+.ID-Customer--2124101-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Rectangle-41{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:246px;
+  width:948px;
+  min-width:948px;
+  height:689px;
+  margin-top:-711px;
+  margin-bottom:22px;
+  min-height:689px;
+  background-color:rgba(196, 196, 196, 1);
+}
+.Rectangle-41-outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Rectangle-42{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:247px;
+  width:948px;
+  min-width:948px;
+  height:330px;
+  margin-top:-690px;
+  margin-bottom:360px;
+  min-height:330px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-42-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Email{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:332px;
+  width:85px;
+  min-width:85px;
+  height:30px;
+  margin-top:-670px;
+  margin-bottom:640px;
+  min-height:30px;
+  content:url(assets/images/Email.png);
+}
+.Email-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.q--Prasanjayagalang2{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:586px;
+  width:510px;
+  min-width:510px;
+  height:28px;
+  margin-top:-668px;
+  margin-bottom:640px;
+  min-height:28px;
+  content:url(assets/images/___Prasanjayagalang22_gmail_com.png);
+}
+.q--Prasanjayagalang2-outer{
+  pointer-events:none;
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.q--Galang-Prasanjaya{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:586px;
+  width:300px;
+  min-width:300px;
+  height:31px;
+  margin-top:-608px;
+  margin-bottom:577px;
+  min-height:31px;
+  content:url(assets/images/___Galang_Prasanjaya.png);
+}
+.q--Galang-Prasanjaya-outer{
+  pointer-events:none;
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Nama{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:332px;
+  width:85px;
+  min-width:85px;
+  height:29px;
+  margin-top:-607px;
+  margin-bottom:578px;
+  min-height:29px;
+  content:url(assets/images/Nama.png);
+}
+.Nama-outer{
+  pointer-events:none;
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.q--Jln-Riau-Gg-1001-{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:586px;
+  width:574px;
+  min-width:574px;
+  height:30px;
+  margin-top:-547px;
+  margin-bottom:517px;
+  min-height:30px;
+  content:url(assets/images/___Jln_Riau_Gg_1001_No_105__Sumbersari.png);
+}
+.q--Jln-Riau-Gg-1001--outer{
+  pointer-events:none;
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.Alamat{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:332px;
+  width:109px;
+  min-width:109px;
+  height:27px;
+  margin-top:-544px;
+  margin-bottom:517px;
+  min-height:27px;
+  content:url(assets/images/Alamat.png);
+}
+.Alamat-outer{
+  pointer-events:none;
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.q--22-03-2002{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:586px;
+  width:205px;
+  min-width:205px;
+  height:30px;
+  margin-top:-483px;
+  margin-bottom:453px;
+  min-height:30px;
+  content:url(assets/images/___22_03_2002.png);
+}
+.q--22-03-2002-outer{
+  pointer-events:none;
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.Tgl-Lahir{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:332px;
+  width:129px;
+  min-width:129px;
+  height:30px;
+  margin-top:-483px;
+  margin-bottom:453px;
+  min-height:30px;
+  content:url(assets/images/Tgl_Lahir.png);
+}
+.Tgl-Lahir-outer{
+  pointer-events:none;
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.Ellipse-9{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:1085px;
+  width:58px;
+  min-width:58px;
+  height:60px;
+  margin-top:-441px;
+  margin-bottom:381px;
+  min-height:60px;
+  content:url(assets/images/Ellipse_9.png);
+}
+.Ellipse-9-outer{
+  pointer-events:none;
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.q--081234708887{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:586px;
+  width:247px;
+  min-width:247px;
+  height:30px;
+  margin-top:-428px;
+  margin-bottom:398px;
+  min-height:30px;
+  content:url(assets/images/___081234708887.png);
+}
+.q--081234708887-outer{
+  pointer-events:none;
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.No-telepon{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:332px;
+  width:166px;
+  min-width:166px;
+  height:30px;
+  margin-top:-428px;
+  margin-bottom:398px;
+  min-height:30px;
+  content:url(assets/images/No_telepon.png);
+}
+.No-telepon-outer{
+  pointer-events:none;
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.Rectangle-43{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:247px;
+  width:948px;
+  min-width:948px;
+  height:274px;
+  margin-top:-321px;
+  margin-bottom:47px;
+  min-height:274px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-43-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.q--15398238{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:586px;
+  width:180px;
+  min-width:180px;
+  height:30px;
+  margin-top:-284px;
+  margin-bottom:254px;
+  min-height:30px;
+  content:url(assets/images/___15398238.png);
+}
+.q--15398238-outer{
+  pointer-events:none;
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.ID-Pelanggan{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:332px;
+  width:197px;
+  min-width:197px;
+  height:30px;
+  margin-top:-284px;
+  margin-bottom:254px;
+  min-height:30px;
+  content:url(assets/images/ID_Pelanggan.png);
+}
+.ID-Pelanggan-outer{
+  pointer-events:none;
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.q--453435{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:586px;
+  width:139px;
+  min-width:139px;
+  height:30px;
+  margin-top:-229px;
+  margin-bottom:199px;
+  min-height:30px;
+  content:url(assets/images/___453435.png);
+}
+.q--453435-outer{
+  pointer-events:none;
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.No-Meter{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:332px;
+  width:139px;
+  min-width:139px;
+  height:30px;
+  margin-top:-229px;
+  margin-bottom:199px;
+  min-height:30px;
+  content:url(assets/images/No_Meter.png);
+}
+.No-Meter-outer{
+  pointer-events:none;
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.q--900FA{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:586px;
+  width:122px;
+  min-width:122px;
+  height:30px;
+  margin-top:-174px;
+  margin-bottom:144px;
+  min-height:30px;
+  content:url(assets/images/___900FA.png);
+}
+.q--900FA-outer{
+  pointer-events:none;
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.Daya{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:332px;
+  width:77px;
+  min-width:77px;
+  height:30px;
+  margin-top:-174px;
+  margin-bottom:144px;
+  min-height:30px;
+  content:url(assets/images/Daya.png);
+}
+.Daya-outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.q1-5398239{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:1009px;
+  width:151px;
+  min-width:151px;
+  height:51px;
+  margin-top:-121px;
+  margin-bottom:70px;
+  min-height:51px;
+  content:url(assets/images/_1_5398239.png);
+}
+.q1-5398239-outer{
+  pointer-events:none;
+  z-index:37;
+  position:relative;
+  display:flex;
+}
